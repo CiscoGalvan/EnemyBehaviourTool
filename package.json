@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "displayName": "Enemy Behavior Tool",
   "description": "Herramienta para manejar comportamientos de enemigos en Unity. ",
-  "unity": "2022.3"
+  "unity": "2022.3",
+  "dependencies": {}
 }
